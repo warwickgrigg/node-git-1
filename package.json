@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js localhost 8080",
-    "xzz": ""
+    "xzz": "",
+    "yza": ""
   },
   "dependencies": {},
   "devDependencies": {
